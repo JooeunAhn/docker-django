@@ -1,4 +1,4 @@
-ROM ubuntu:14.04
+FROM ubuntu:14.04
 FROM python:3.5
 
 maintainer joon
